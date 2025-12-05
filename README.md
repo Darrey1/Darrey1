@@ -68,11 +68,11 @@ I focus on bridging **Blockchain** and **Artificial Intelligence**, delivering p
 ---
 
 ## 🔗 Contact Me
-- [LinkedIn](https://linkedin.com/in/Darrey1)  
-- [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/dare-timileyin-b2099a241/)  
+- [Portfolio](https://www.nexalware.com/)  
+- [Email](mailto:daretimileyin1@gmail.com)  
 
 ---
 
-*“Building smarter solutions, one project at a time.”*
+*“Building smarter solutions, @nexalware”*
 
