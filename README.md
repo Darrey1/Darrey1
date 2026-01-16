@@ -1,36 +1,32 @@
-# 💡 Dare Timileyin | Full-Stack Software Engineer & Tech Founder
+# I'm Dare Timileyin Full-Stack Software Engineer
 
-As a full-stack software engineer and tech founder, I help people and businesses create smart solutions using **Blockchain, AI, and Automation** to make their work easier, faster, and more successful.
+I build production-grade software application ranging from blockchain systems and decentralized applications, including smart contracts, Dapps, DeFi protocols, token automation, and staking platforms. 
+To custom AI Agents,Telegram Bots and automation pipelines to streamline business processes, reduce manual work and scale systems reliably under real-world conditions.
 
----
+My focus isn’t just on making system functional it’s on making sure they keep running smoothly as demand grows. I build systems that scale, recover from failures, and stay maintainable.
 
-## 👨‍💻 About Me
-
-I’m **Dare Timileyin**, founder of **Nexalware**, a forward-thinking tech startup.  
-As a software engineer and entrepreneur, I’m passionate about building smart, **future-ready technologies** powered by **Blockchain, AI, and Automation**.
-
----
 
 ## 🛠️ Services
 
-I focus on bridging **Blockchain** and **Artificial Intelligence**, delivering practical, **scalable**, and **intelligent systems** for clients worldwide.
-
-### 🔗 Blockchain Development
-- Smart contracts (Ethereum, Solana, BSC, Base, Tron, TON)  
-- DApps, DeFi protocols, DEXs, and launchpads (IDO/ICO)  
-- Custom token development  
+### 🔗 Blockchain & Smart Contract Development
+- Secure, and gas-efficient smart contracts development (Ethereum, Solana, BSC, Polygon)
+- Token automation, staking platforms, and decentralized marketplaces 
+- Decentralized applications (DApps), DeFi protocols and launchpads (IDO/ICO)
 - Trading tools & exchange API integrations (Binance, Bybit, Bitget, Kucoin, etc.)
 
-### 🤖 AI & Automation
-- AI agents & intelligent bots  
-- Telegram Mini Apps for blockchain interaction  
-- Workflow automation to boost efficiency & decision-making  
-- Tools: Make.com, n8n, GoHighLevel, Calendly
 
-### 🌐 Web & App Development
-- Web and mobile applications  
-- Backend APIs & database development (PostgreSQL, MySQL, MongoDB, Redis)  
-- API integrations & gateway solutions
+### 🤖 AI Agents & Telegram Bots
+- Custom AI Agents for decision-making, lead-handling, and workflow orchestration
+- Telegram Bots and Mini Apps that interact with users while automating business logic
+- Integration with AI models, CRM systems, and backend workflows 
+- Voice, chat, and notification automation for real-world scale
+  
+
+### 🌐 Web & Mobile App Development
+- API-development and integration, microservices architectures for high scale product 
+- Database Integrations
+- Systems designed to handle failures, scale, and stay maintainable
+- Invoice generation, document processing, and PDF extraction
 
 ---
 
@@ -58,19 +54,14 @@ I focus on bridging **Blockchain** and **Artificial Intelligence**, delivering p
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-2B3A42?style=for-the-badge)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ---
 
-## 📚 Currently Learning
-- Rust for Solana smart contract development  
-- Microservices architecture for scalable server applications
+I also audit, refactor, and optimize existing code and workflows fixing fragile logic and optimizing performance for scalable blockchain and automation systems.
 
 ---
 
-## 🔗 Portfolio
-- [Portfolio](https://www.nexalware.com/)  
-
----
-
-*“Building smarter solutions, @nexalware”*
+*“Building the future of Artificial Intelligence of Things (AIoT) @nexalware”*
 
