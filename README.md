@@ -2,7 +2,9 @@ I’m Dare Timileyin, a Full-Stack Software Engineer. I build production-grade s
 including smart contracts, DApps, DeFi protocols,token automation, and staking platforms, to custom AI agents, 
 Telegram bots, and automation pipelines that streamline business processes, reduce manual work, and scale reliably under real-world conditions.
 
-My focus isn’t just on making system functional it’s on making sure they keep running smoothly as demand grows. I build systems that scale, recover from failures, and stay maintainable across:
+My focus isn’t just on making system functional it’s on making sure they keep running smoothly as demand grows. 
+
+I build systems that scale, recover from failures, and stay maintainable across:
 
 ### 🔗 Blockchain & Smart Contract Development
 - Secure, and gas-efficient smart contracts development (Ethereum, Solana, BSC, Polygon)
