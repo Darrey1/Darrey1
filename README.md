@@ -1,4 +1,4 @@
-I’m Dare Timileyin, a Full-Stack Software Engineer.I build production-grade software applications ranging from blockchain systems and decentralized applications,
+I’m Dare Timileyin, a Full-Stack Software Engineer. I build production-grade software applications ranging from blockchain systems and decentralized applications,
 including smart contracts, DApps, DeFi protocols,token automation, and staking platforms, to custom AI agents, 
 Telegram bots, and automation pipelines that streamline business processes, reduce manual work, and scale reliably under real-world conditions.
 
