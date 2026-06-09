@@ -1,65 +1,22 @@
-I’m Dare Timileyin, a Full-Stack Software Engineer. I build production-grade software applications ranging from blockchain systems and decentralized applications,
-including smart contracts, DApps, DeFi protocols,token automation, and staking platforms, to custom AI agents, 
-Telegram bots, and automation pipelines that streamline business processes, reduce manual work, and scale reliably under real-world conditions.
+I'm Dare Timileyin — engineer and founder building Nexalware, 
 
-My focus isn’t just on making system functional it’s on making sure they keep running smoothly as demand grows. 
+Nexalware is an AIoT platform, meaning it combines Artificial Intelligence and IoT (Internet of Things) to help businesses connect physical devices like sensors, machines, and hardware to the internet and cloud. So they 
+can monitor, control, and automate them in real time using AI, not just basic data collection. Built specifically for Africa where power is unreliable and internet is limited.
 
-I build systems that scale, recover from failures, and stay maintainable across:
+I have 6 years of experience building production software. 30+ live products shipped. 5,000+ daily active users across AI, backend, and Web3 systems.
 
-### 🔗 Blockchain & Smart Contract Development
-- Secure, and gas-efficient smart contracts development (Ethereum, Solana, BSC, Polygon)
-- Token automation, staking platforms, and decentralized marketplaces 
-- Decentralized applications (DApps), DeFi protocols and launchpads (IDO/ICO)
-- Trading tools & exchange API integrations (Binance, Bybit, Bitget, Kucoin, etc.)
+Here is what I build:
 
+→ AI Systems — I build AI agents and automation pipelines that handle decisions, workflows, and business logic without human intervention
 
-### 🤖 AI Agents & Telegram Bots
-- Custom AI Agents for decision-making, lead-handling, and workflow orchestration
-- Telegram Bots and Mini Apps that interact with users while automating business logic
-- Integration with AI models, CRM systems, and backend workflows 
-- Voice, chat, and notification automation for real-world scale
-  
+→ Backend Infrastructure — I build the server-side systems that power applications at scale using FastAPI, Node.js, Golang, PostgreSQL, and Redis
 
-### 🌐 Web & Mobile App Development
-- API-development and integration, microservices architectures for high scale product 
-- Database Integrations
-- Systems designed to handle failures, scale, and stay maintainable
-- Invoice generation, document processing, and PDF extraction
+→ AIoT & Edge — I connect physical hardware to cloud platforms with built-in AI that makes decisions on the device itself, even without stable internet
 
----
+Currently building Nexalware — AIoT infrastructure that works in low-power, low-connectivity environments across Africa. Farmers, hospitals, factories, and utilities can monitor, 
+control, and get AI-powered insights from their devices even without stable internet.
 
-## ⚡ Technical Skills & Tools
+Top Rated on Upwork · 100% Job Success · 30+ shipped systems
 
-### 🖥️ Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 📊 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚙️ Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-2B3A42?style=for-the-badge)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
----
-
-I also audit, refactor, and optimize existing code and workflows fixing fragile logic and optimizing performance for scalable blockchain and automation systems.
-
----
-
-*“Building the future of Artificial Intelligence of Things (AIoT) @nexalware”*
-
+"The infrastructure Africa has been waiting for."
+→ [nexalware.com](https://www.nexalware.com/)
