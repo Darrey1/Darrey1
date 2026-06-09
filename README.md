@@ -1,11 +1,11 @@
 # Hi, I'm Dare Timileyin
 
-**AI + Backend Engineer and Founder of [Nexalware](https://www.nexalware.com/)**
+**AI + Backend Engineer and Founder of  [Nexalware](https://www.nexalware.com/)**
 
 Nexalware is an AIoT platform that combines Artificial Intelligence 
 and IoT (Internet of Things) to help businesses connect physical 
 devices like sensors, machines, and hardware to the internet and 
-cloud — so they can monitor, control, and automate them in real 
+cloud so they can monitor, control, and automate them in real 
 time using AI, not just basic data collection. Built specifically 
 for Africa where power is unreliable and internet is limited.
 
@@ -33,7 +33,7 @@ that makes decisions on the device itself, even without stable internet.
 
 ## Currently Building
 
-**Nexalware** — AIoT infrastructure built for low-power, 
+**Nexalware** AIoT infrastructure built for low-power, 
 low-connectivity environments across Africa. Farmers, hospitals, 
 factories, and utilities can monitor, control, and get AI-powered 
 insights from their devices even without stable internet.
