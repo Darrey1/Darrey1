@@ -194,11 +194,11 @@ Founder of **OpenFutureCamp**, a free developer community helping engineers lear
 
 🌐 Website: https://www.nexalware.com
 
-💼 LinkedIn: https://www.linkedin.com/in/daretimileyin
+💼 LinkedIn: [https://www.linkedin.com/in/daretimileyin](https://www.linkedin.com/in/dare-timileyin-b2099a241/)
 
-🐦 X (Twitter): https://x.com/YOUR_USERNAME
+🐦 X (Twitter): [https://x.com/YOUR_USERNAME](https://x.com/daretimileyin42)
 
-📧 Email: YOUR_EMAIL
+📧 Email: daretimileyin1@gmail.com
 
 ---
 
