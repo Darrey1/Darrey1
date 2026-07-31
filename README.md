@@ -171,7 +171,7 @@ Building infrastructure that works where connectivity doesn't.
 
 # 🌱 Community
 
-Founder of **OpenFutureCamp**, a free developer community helping engineers learn, build real-world projects, contribute to open source, and collaborate through hackathons.
+Founder of **[OpenFutureCamp](https://www.openfuturecamp.com/)**, a free developer community helping engineers learn, build real-world projects, contribute to open source, and collaborate through hackathons.
 
 ---
 
