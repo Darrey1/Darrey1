@@ -116,6 +116,7 @@ Building infrastructure that works where connectivity doesn't.
 - Go
 - TypeScript
 - JavaScript
+- Solidity
 - Rust *(Learning)*
 
 ### AI
