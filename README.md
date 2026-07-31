@@ -194,9 +194,9 @@ Founder of **[OpenFutureCamp](https://www.openfuturecamp.com/)**, a free develop
 
 🌐 Website: https://www.nexalware.com
 
-💼 LinkedIn: (https://www.linkedin.com/in/dare-timileyin-b2099a241/)
+💼 LinkedIn: [Dare Timileyin](https://www.linkedin.com/in/dare-timileyin-b2099a241/)
 
-🐦 X (Twitter): (https://x.com/daretimileyin42)
+🐦 X (Twitter): [Dare Timileyin](https://x.com/daretimileyin42)
 
 📧 Email: daretimileyin1@gmail.com
 
