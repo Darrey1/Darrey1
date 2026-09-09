@@ -214,9 +214,6 @@ Focus areas:
 
 ---
 
-
----
-
 # 🔭 What I'm Exploring
 
 * Distributed systems
