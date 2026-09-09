@@ -1,86 +1,100 @@
 # Hi, I'm Dare Timileyin 👋
 
-### AI Infrastructure Engineer • Backend Engineer • Blockchain Developer
-**Founder of [Nexalware](https://www.nexalware.com/)**
+### Backend & Systems Engineer | Go, Python, Distributed Systems & AI Infrastructure
 
-I build production AI systems, scalable backend infrastructure, blockchain applications, and offline-first edge platforms that continue working where internet connectivity and power are unreliable.
+Founder & Lead Engineer at [Nexalware](https://www.nexalware.com/)
 
-Over the last **6 years**, I've built software across **AI, Web3, fintech, and distributed infrastructure**, shipping **30+ production systems** serving **5,000+ daily active users**.
+I build backend and infrastructure systems that connect **software, networks, AI, and physical devices**.
 
----
+My work spans distributed backend systems, real-time communication, blockchain infrastructure, AI agents, and edge computing. I care about the problems that appear when software moves beyond a demo: **concurrency, reliability, authentication, data consistency, network failures, retries, and partial failure**.
 
-# 🚀 What I Build
-
-## 🤖 AI Systems
-
-Building intelligent software powered by LLMs and autonomous agents.
-
-- AI Agents
-- Multi-Agent Systems
-- RAG Applications
-- Workflow Automation
-- AI Integrations
-- AI-powered Products
-
-**Tech**
-
-LangChain • CrewAI • OpenAI • Claude • Transformers • PyTorch
+I primarily work with **Go, Python, and TypeScript**, with a growing focus on **gRPC, distributed systems, cloud infrastructure, and edge computing**.
 
 ---
 
-## ⚙️ Backend Infrastructure
+## What I Build
 
-Designing scalable backend systems that power production applications.
+### ⚙️ Backend & Distributed Systems
 
-- REST APIs
-- Authentication & Authorization
-- Real-time Systems
-- Distributed Services
-- Database Architecture
-- Background Processing
-- Performance Optimization
+I design backend services for applications where reliability and consistency matter.
 
-**Tech**
+* REST & gRPC APIs
+* Distributed services
+* Event-driven systems
+* Real-time communication
+* Authentication & authorization
+* Background workers
+* Idempotency & retry handling
+* Database architecture
+* Transaction and state management
+* Observability & production reliability
 
-FastAPI • Node.js • Go • PostgreSQL • Redis • Docker • RabbitMQ • Kafka
+**Technologies**
 
----
-
-## ⛓ Blockchain & Web3
-
-Building secure decentralized applications and smart contract infrastructure.
-
-- Smart Contracts
-- DeFi Applications
-- Wallet Integrations
-- Token Systems
-- Cross-chain Integrations
-- Web3 APIs
-- Blockchain Indexing
-- Crypto Payment Infrastructure
-
-**Chains**
-
-Ethereum • Base • Arbitrum • BNB Chain • Polygon • Solana
-
-**Tools**
-
-Solidity • Hardhat • Foundry • Ethers.js • Viem • Web3.js
+`Go` `Python` `TypeScript` `gRPC` `FastAPI` `PostgreSQL` `MongoDB` `Redis` `Docker`
 
 ---
 
-## 🌍 AIoT & Edge Infrastructure
+### 🌐 AI Infrastructure & Agents
 
-Building infrastructure that connects physical devices, processes data locally, and synchronizes when connectivity becomes available.
+I build AI systems that can interact with applications, data, and external tools.
 
-Areas of focus:
+* AI agents
+* Multi-agent workflows
+* RAG systems
+* Tool calling
+* Workflow automation
+* MCP servers
+* AI API integrations
+* AI-powered backend systems
 
-- Edge AI
-- Device Communication
-- Offline-first Infrastructure
-- Local Networking
-- Secure Device Authentication
-- Distributed Synchronization
+**Technologies**
+
+`Python` `LangChain` `LangGraph` `CrewAI` `OpenAI` `Anthropic` `MCP`
+
+---
+
+### ⛓️ Blockchain & Web3
+
+I build backend and smart contract systems for blockchain and financial applications.
+
+* Smart contracts
+* DeFi systems
+* Wallet integrations
+* Crypto payment infrastructure
+* Web3 APIs
+* Transaction processing
+* Blockchain automation
+* On-chain application backends
+
+**Technologies**
+
+`Solidity` `Foundry` `Hardhat` `Ethers.js` `Viem`
+
+**Networks**
+
+`Ethereum` `Base` `Arbitrum` `BNB Chain`
+
+---
+
+### 📡 IoT, Edge & Device Infrastructure
+
+I work on systems that connect software to physical devices and keep operating when connectivity is unreliable.
+
+* IoT device communication
+* Edge gateways
+* MQTT
+* Device authentication
+* Offline-first systems
+* Local processing
+* Telemetry
+* Remote device control
+* State synchronization
+* Edge AI
+
+**Technologies**
+
+`MQTT` `Go` `ESP32` `C++` `Linux` `PostgreSQL` `Redis`
 
 ---
 
@@ -88,118 +102,159 @@ Areas of focus:
 
 ## Nexalware
 
-An **offline-first AI infrastructure platform** built for environments with unreliable internet connectivity and unstable power.
+[Nexalware](https://www.nexalware.com/) is an **AIoT infrastructure platform** connecting software and AI agents to the physical world.
 
-Nexalware enables businesses to deploy AI-powered applications and connected devices that continue operating even when cloud connectivity isn't available.
+The goal is to give software a reliable way to **sense, understand, decide, and act through physical devices**, while handling the realities of unreliable connectivity and edge environments.
 
-Current areas of development:
+Current work includes:
 
-- AIoT Infrastructure
-- Edge AI
-- Offline Collaboration
-- Device Management
-- Local AI Inference
-- Distributed Networking
-- Secure Edge Authentication
+* AIoT Gateway
+* Device communication
+* Edge infrastructure
+* Offline-first operation
+* Device authentication
+* Local processing
+* State synchronization
+* AI agent integration
 
-🌍 **Mission**
-
-Building infrastructure that works where connectivity doesn't.
+> **Connect software and AI agents to the physical world.**
 
 ---
 
-# 💻 Tech Stack
+# 🧪 Selected Projects
+
+### Distributed Device Control System
+
+A standalone distributed systems project focused on controlling and monitoring connected devices through a reliable service architecture.
+
+**Go · gRPC · MQTT · PostgreSQL · Docker**
+
+Focus areas:
+
+* Service-to-service communication
+* Device registration
+* Command delivery
+* Telemetry
+* Authentication
+* Connection management
+* Failure handling
+* State synchronization
+
+---
+
+### Edge Gateway
+
+A gateway architecture for connecting physical devices using different communication protocols and exposing them through a common device interface.
+
+**Go · MQTT · Modbus · gRPC · Linux**
+
+Focus areas:
+
+* Protocol adapters
+* Device abstraction
+* Local command execution
+* Telemetry collection
+* Offline operation
+* Cloud synchronization
+
+---
+
+### AI Agent Tool Server
+
+A remote MCP server that allows AI clients to discover and execute tools against external services.
+
+**Python · MCP · HTTP Streaming**
+
+Focus areas:
+
+* Tool discovery
+* Tool execution
+* Session management
+* Streaming responses
+* Multiple concurrent clients
+
+---
+
+# 🛠️ Technology
 
 ### Languages
 
-- Python
-- Go
-- TypeScript
-- JavaScript
-- Solidity
-- Rust *(Learning)*
+`Go` `Python` `TypeScript` `JavaScript` `Solidity` `C++`
+
+### Backend & Systems
+
+`gRPC` `FastAPI` `Node.js` `REST` `WebSockets` `MQTT`
+
+### Databases & Messaging
+
+`PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Kafka`
+
+### Infrastructure
+
+`Linux` `Docker` `Nginx` `GitHub Actions` `AWS` `GCP`
 
 ### AI
 
-- LangChain
-- CrewAI
-- OpenAI
-- Claude
-- Transformers
-- PyTorch
-
-### Backend
-
-- FastAPI
-- Node.js
-- Go
-- PostgreSQL
-- Redis
-- Docker
-- RabbitMQ
-- Kafka
+`LangChain` `LangGraph` `CrewAI` `OpenAI` `Anthropic` `RAG` `MCP`
 
 ### Blockchain
 
-- Solidity
-- Hardhat
-- Foundry
-- Ethers.js
-- Viem
-- Web3.js
-
-### Cloud & DevOps
-
-- AWS
-- GCP
-- Railway
-- DigitalOcean
-- GitHub Actions
+`Solidity` `Foundry` `Hardhat` `Ethers.js` `Viem`
 
 ---
 
-# 📈 Highlights
+# 📈 Experience Highlights
 
-- 🏆 Top Rated Freelancer on Upwork
-- ⭐ 100% Job Success
-- 🚀 30+ Production Systems Delivered
-- 👥 5,000+ Daily Active Users
-- 🤖 AI Agent Systems for 10+ Clients
-- ⛓ 15+ Smart Contracts Deployed across Ethereum, Base, Arbitrum, and BNB Chain
-
----
-
-# 🌱 Community
-
-Founder of **[OpenFutureCamp](https://www.openfuturecamp.com/)**, a free developer community helping engineers learn, build real-world projects, contribute to open source, and collaborate through hackathons.
+* 🏆 **Top Rated** on Upwork
+* ⭐ **100% Job Success Score**
+* 🚀 **30+ production systems delivered**
+* 👥 Systems serving **5,000+ daily users**
+* 🤖 AI agent systems delivered for **10+ clients**
+* ⛓️ **15+ smart contracts** across Ethereum, Base, Arbitrum and BNB Chain
 
 ---
 
-# 🔬 Current Interests
+# 🌱 OpenFutureCamp
 
-- AI Infrastructure
-- Multi-Agent Systems
-- AI Alignment
-- Distributed Systems
-- Blockchain Infrastructure
-- Zero-Knowledge Proofs
-- Edge AI
-- AIoT
-- Networking
-- Backend Architecture
+Founder of [OpenFutureCamp](https://www.openfuturecamp.com/), a developer community focused on helping engineers move from learning concepts to building and shipping real products.
 
----
+We explore:
 
-# 📫 Connect With Me
-
-🌐 Website: https://www.nexalware.com
-
-💼 LinkedIn: [Dare Timileyin](https://www.linkedin.com/in/dare-timileyin-b2099a241/)
-
-🐦 X (Twitter): [Dare Timileyin](https://x.com/daretimileyin42)
-
-📧 Email: daretimileyin1@gmail.com
+* Software engineering
+* AI
+* Web3
+* Open source
+* Developer tools
+* Real-world projects
+* Hackathons and collaboration
 
 ---
 
-> *Building infrastructure that works where connectivity doesn't.*
+# 🔭 What I'm Exploring
+
+* Distributed systems
+* Go & gRPC
+* Edge computing
+* AI infrastructure
+* AI agents
+* IoT infrastructure
+* Device communication
+* Offline-first systems
+* Blockchain infrastructure
+* Cloud & platform engineering
+
+---
+
+# 📫 Connect
+
+🌐 [Nexalware](https://www.nexalware.com/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/dare-timileyin-b2099a241/)
+
+🐦 [X](https://x.com/daretimileyin42)
+
+📧 [daretimileyin1@gmail.com](mailto:daretimileyin1@gmail.com)
+
+---
+
+### Building systems where software, AI, networks and the physical world meet.
