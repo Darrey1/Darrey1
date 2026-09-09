@@ -214,19 +214,6 @@ Focus areas:
 
 ---
 
-# 🌱 OpenFutureCamp
-
-Founder of [OpenFutureCamp](https://www.openfuturecamp.com/), a developer community focused on helping engineers move from learning concepts to building and shipping real products.
-
-We explore:
-
-* Software engineering
-* AI
-* Web3
-* Open source
-* Developer tools
-* Real-world projects
-* Hackathons and collaboration
 
 ---
 
