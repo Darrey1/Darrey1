@@ -15,13 +15,13 @@ Currently building [Nexalware](https://www.nexalware.com/), an AIoT infrastructu
 **[Distributed Device Control System](REPO_URL)**
 Go and gRPC service for device registration, telemetry, command dispatch with acknowledgement, and state synchronization across gateways.
 
-**[Nexalware Smart Socket](REPO_URL)**
+**[Nexalware Smart Socket](https://github.com/Darrey1/IOT-BASED-SMART-SOCKET-FOR-REMOTE-APPLIANCE-MANAGEMENT)**
 ESP32 smart socket with per-device MQTT authentication. Schedules are stored on the device and run against an onboard RTC, so it keeps working with no network.
 
 **[Remote MCP Server](REPO_URL)**
 MCP server exposing live market data as callable tools for AI clients. Session lifecycle, tool discovery, streaming responses.
 
-**[Smart Water Pump Controller](REPO_URL)**
+**[Smart Water Pump Controller](https://github.com/Darrey1/IOT-BASED-SMART-W-ATER-PUMP-CONTROLLER)**
 Arduino tank controller with automatic pump switching and two-way SMS control over GSM.
 
 [Website](https://www.nexalware.com/) · [LinkedIn](https://www.linkedin.com/in/dare-timileyin-b2099a241/) · [X](https://x.com/daretimileyin42) · daretimileyin1@gmail.com
