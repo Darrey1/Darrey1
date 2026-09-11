@@ -12,7 +12,7 @@ Currently building [Nexalware](https://www.nexalware.com/), an AIoT infrastructu
 
 ## Projects
 
-**[Distributed Device Control System](REPO_URL)**
+**[Distributed Device Control System](https://github.com/Darrey1/distributed-device-control-system/)**
 Go and gRPC service for device registration, telemetry, command dispatch with acknowledgement, and state synchronization across gateways.
 
 **[Nexalware Smart Socket](https://github.com/Darrey1/IOT-BASED-SMART-SOCKET-FOR-REMOTE-APPLIANCE-MANAGEMENT)**
