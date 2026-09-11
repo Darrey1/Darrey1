@@ -26,11 +26,6 @@ Lead engineer at [Nexalware](https://www.nexalware.com/). Open to backend and pl
 
 ## Work
 
-### Crypto payments backend · DigitWallet
-`Python` `PostgreSQL`
-
-Transaction handling and balance integrity for a digital wallet product. Provider integrations, idempotent processing so retries cannot double-credit an account.
-
 ### P2P trading platform · DrorPay
 `FastAPI` `MongoDB` `Beanie`
 
@@ -41,7 +36,7 @@ Backend for a peer-to-peer crypto exchange running as a Telegram mini app. The h
 
 Backend for a WhatsApp agent that qualifies real estate leads, matches them against live listings, and books viewings. Responses are grounded in actual brokerage inventory rather than generated freely.
 
-### Prediction markets · [RODE](#)
+### Prediction markets · RODE
 `TypeScript` `Node.js` `Prisma` `PostgreSQL`
 
 Market lifecycle from creation through position taking to resolution and settlement. Shared Prisma schema in a monorepo, migrations that evolve the data model without breaking services already running.
