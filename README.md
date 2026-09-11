@@ -1,244 +1,88 @@
-# Hi, I'm Dare Timileyin 👋
+# Dare Timileyin
 
-### Backend & Systems Engineer | Go, Python, Distributed Systems & AI Infrastructure
+**Backend & Systems Engineer** · Go, Python, TypeScript
 
-Founder & Lead Engineer at [Nexalware](https://www.nexalware.com/)
+Five years building backend systems in production. Crypto payments, peer-to-peer trading, prediction markets, AI agents, real estate automation, and IoT device infrastructure.
 
-I build backend and infrastructure systems that connect **software, networks, AI, and physical devices**.
+The work is the same underneath: services that handle money, state, or hardware commands correctly when things go wrong. Duplicate requests, failed payouts, dropped connections, restarts mid-transaction.
 
-My work spans distributed backend systems, real-time communication, blockchain infrastructure, AI agents, and edge computing. I care about the problems that appear when software moves beyond a demo: **concurrency, reliability, authentication, data consistency, network failures, retries, and partial failure**.
-
-I primarily work with **Go, Python, and TypeScript**, with a growing focus on **gRPC, distributed systems, cloud infrastructure, and edge computing**.
+Lead engineer at [Nexalware](https://www.nexalware.com/). Open to backend and platform roles internationally.
 
 ---
 
-## What I Build
+## Stack
 
-### ⚙️ Backend & Distributed Systems
+**Languages** `Go` `Python` `TypeScript` `SQL` `Solidity` `C++`
 
-I design backend services for applications where reliability and consistency matter.
+**Backend** `gRPC` `FastAPI` `Django REST` `Gin` `Fiber` `Node.js` `WebSockets` `MQTT`
 
-* REST & gRPC APIs
-* Distributed services
-* Event-driven systems
-* Real-time communication
-* Authentication & authorization
-* Background workers
-* Idempotency & retry handling
-* Database architecture
-* Transaction and state management
-* Observability & production reliability
+**Data** `PostgreSQL` `MongoDB` `Redis` `Prisma` `Beanie`
 
-**Technologies**
+**Infra** `Linux` `Docker` `Nginx` `systemd` `GitHub Actions`
 
-`Go` `Python` `TypeScript` `gRPC` `FastAPI` `PostgreSQL` `MongoDB` `Redis` `Docker`
+**AI** `LangChain` `LangGraph` `CrewAI` `MCP` `RAG`
 
 ---
 
-### 🌐 AI Infrastructure & Agents
+## Work
 
-I build AI systems that can interact with applications, data, and external tools.
+### Crypto payments backend · DigitWallet
+`Python` `PostgreSQL`
 
-* AI agents
-* Multi-agent workflows
-* RAG systems
-* Tool calling
-* Workflow automation
-* MCP servers
-* AI API integrations
-* AI-powered backend systems
+Transaction handling and balance integrity for a digital wallet product. Provider integrations, idempotent processing so retries cannot double-credit an account.
 
-**Technologies**
+### P2P trading platform · DrorPay
+`FastAPI` `MongoDB` `Beanie`
 
-`Python` `LangChain` `LangGraph` `CrewAI` `OpenAI` `Anthropic` `MCP`
+Backend for a peer-to-peer crypto exchange running as a Telegram mini app. The hard part was making payouts safe: atomic state transitions, single-fire payout flags so a trade cannot disburse twice, startup sweeps that reconcile in-flight trades after a restart, platform-wallet reversals for failed settlements. Plus fraud detection, moderation, and audit logging on every balance-affecting action.
 
----
+### AI lead conversion · Wakeeli
+`Python` `LLM pipelines`
 
-### ⛓️ Blockchain & Web3
+Backend for a WhatsApp agent that qualifies real estate leads, matches them against live listings, and books viewings. Responses are grounded in actual brokerage inventory rather than generated freely.
 
-I build backend and smart contract systems for blockchain and financial applications.
+### Prediction markets · [RODE](#)
+`TypeScript` `Node.js` `Prisma` `PostgreSQL`
 
-* Smart contracts
-* DeFi systems
-* Wallet integrations
-* Crypto payment infrastructure
-* Web3 APIs
-* Transaction processing
-* Blockchain automation
-* On-chain application backends
+Market lifecycle from creation through position taking to resolution and settlement. Shared Prisma schema in a monorepo, migrations that evolve the data model without breaking services already running.
 
-**Technologies**
+### Smart contracts · TrueSofts
+`Solidity` `Ethereum` `BSC` `Base` `Arbitrum`
 
-`Solidity` `Foundry` `Hardhat` `Ethers.js` `Viem`
-
-**Networks**
-
-`Ethereum` `Base` `Arbitrum` `BNB Chain`
+Backend and integration layer for decentralized applications. Delivered and audited contracts across four chains, reviewing gas efficiency and security before deployment.
 
 ---
 
-### 📡 IoT, Edge & Device Infrastructure
+## Open source
 
-I work on systems that connect software to physical devices and keep operating when connectivity is unreliable.
+### [Distributed Device Control System](#)
+`Go` `gRPC` `Protocol Buffers` `MQTT` `PostgreSQL`
 
-* IoT device communication
-* Edge gateways
-* MQTT
-* Device authentication
-* Offline-first systems
-* Local processing
-* Telemetry
-* Remote device control
-* State synchronization
-* Edge AI
+Device registration, telemetry, command dispatch with acknowledgement, reconnection, state sync between edge gateways and backend services. Commands survive network failure and apply once.
 
-**Technologies**
+### [Nexalware Smart Socket](#)
+`ESP32` `C++` `MQTT` `Go`
 
-`MQTT` `Go` `ESP32` `C++` `Linux` `PostgreSQL` `Redis`
+ESP32 socket with per-device broker authentication and schedules stored in EEPROM, evaluated against an onboard RTC. Runs its schedule without waiting for Wi-Fi or MQTT.
 
----
+### [Smart Water Pump Controller](#)
+`Arduino` `C++` `GSM`
 
-# 🚧 Currently Building
+Tank controller with automatic pump switching and two-way SMS control. The README documents the GSM debugging: an SRAM overflow on a 2KB board, and a module difference in how received SMS is announced.
 
-## Nexalware
+### [Remote MCP Server](#)
+`Python` `MCP` `HTTP streaming`
 
-[Nexalware](https://www.nexalware.com/) is an **AIoT infrastructure platform** connecting software and AI agents to the physical world.
-
-The goal is to give software a reliable way to **sense, understand, decide, and act through physical devices**, while handling the realities of unreliable connectivity and edge environments.
-
-Current work includes:
-
-* AIoT Gateway
-* Device communication
-* Edge infrastructure
-* Offline-first operation
-* Device authentication
-* Local processing
-* State synchronization
-* AI agent integration
-
-> **Connect software and AI agents to the physical world.**
+Exposes live market data to AI clients as callable tools. Session lifecycle, tool discovery, streaming responses, multiple concurrent clients.
 
 ---
 
-# 🧪 Selected Projects
+## Background
 
-### Distributed Device Control System
+Top Rated on Upwork, 100% Job Success Score. Clients in the US, Europe and West Africa.
 
-A standalone distributed systems project focused on controlling and monitoring connected devices through a reliable service architecture.
-
-**Go · gRPC · MQTT · PostgreSQL · Docker**
-
-Focus areas:
-
-* Service-to-service communication
-* Device registration
-* Command delivery
-* Telemetry
-* Authentication
-* Connection management
-* Failure handling
-* State synchronization
+B.Eng. Electrical & Electronics Engineering (Telecommunications), Federal University of Technology Minna.
 
 ---
 
-### Edge Gateway
-
-A gateway architecture for connecting physical devices using different communication protocols and exposing them through a common device interface.
-
-**Go · MQTT · Modbus · gRPC · Linux**
-
-Focus areas:
-
-* Protocol adapters
-* Device abstraction
-* Local command execution
-* Telemetry collection
-* Offline operation
-* Cloud synchronization
-
----
-
-### AI Agent Tool Server
-
-A remote MCP server that allows AI clients to discover and execute tools against external services.
-
-**Python · MCP · HTTP Streaming**
-
-Focus areas:
-
-* Tool discovery
-* Tool execution
-* Session management
-* Streaming responses
-* Multiple concurrent clients
-
----
-
-# 🛠️ Technology
-
-### Languages
-
-`Go` `Python` `TypeScript` `JavaScript` `Solidity` `C++`
-
-### Backend & Systems
-
-`gRPC` `FastAPI` `Node.js` `REST` `WebSockets` `MQTT`
-
-### Databases & Messaging
-
-`PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Kafka`
-
-### Infrastructure
-
-`Linux` `Docker` `Nginx` `GitHub Actions` `AWS` `GCP`
-
-### AI
-
-`LangChain` `LangGraph` `CrewAI` `OpenAI` `Anthropic` `RAG` `MCP`
-
-### Blockchain
-
-`Solidity` `Foundry` `Hardhat` `Ethers.js` `Viem`
-
----
-
-# 📈 Experience Highlights
-
-* 🏆 **Top Rated** on Upwork
-* ⭐ **100% Job Success Score**
-* 🚀 **30+ production systems delivered**
-* 👥 Systems serving **5,000+ daily users**
-* 🤖 AI agent systems delivered for **10+ clients**
-* ⛓️ **15+ smart contracts** across Ethereum, Base, Arbitrum and BNB Chain
-
----
-
-# 🔭 What I'm Exploring
-
-* Distributed systems
-* Go & gRPC
-* Edge computing
-* AI infrastructure
-* AI agents
-* IoT infrastructure
-* Device communication
-* Offline-first systems
-* Blockchain infrastructure
-* Cloud & platform engineering
-
----
-
-# 📫 Connect
-
-🌐 [Nexalware](https://www.nexalware.com/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/dare-timileyin-b2099a241/)
-
-🐦 [X](https://x.com/daretimileyin42)
-
-📧 [daretimileyin1@gmail.com](mailto:daretimileyin1@gmail.com)
-
----
-
-### Building systems where software, AI, networks and the physical world meet.
+[Nexalware](https://www.nexalware.com/) · [LinkedIn](https://www.linkedin.com/in/dare-timileyin-b2099a241/) · [X](https://x.com/daretimileyin42) · daretimileyin1@gmail.com
