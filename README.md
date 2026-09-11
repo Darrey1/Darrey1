@@ -56,7 +56,7 @@ Backend and integration layer for decentralized applications. Delivered and audi
 Device registration, telemetry, command dispatch with acknowledgement, reconnection, state sync between edge gateways and backend services. Commands survive network failure and apply once.
 
 ### [Nexalware Smart Socket](#)
-`ESP32` `C++` `MQTT` `Go`
+`ESP32` `C++` `MQTT`
 
 ESP32 socket with per-device broker authentication and schedules stored in EEPROM, evaluated against an onboard RTC. Runs its schedule without waiting for Wi-Fi or MQTT.
 
